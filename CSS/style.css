@@ -16,17 +16,10 @@ body
   margin-right: auto;
 }
 
-h1{
-	text-align: center;
-	font-size: 1.5em;
-    /*font-style: italic;
-	font-family: 'rechtmanplain', Arial, serif;*/
-}
-
 /*pour les paragraphes sans table*/
 p{
 	text-align: center;
-    font-size: 3em;
+    /*font-size: 3em;*/
 }
 
 /*titre h1 et balise em*/
@@ -37,5 +30,5 @@ em
 
 /*Pour les tables*/
 table, th, td{
-    font-size: 1.5em;
+    /*font-size: 20px;*/
 }
