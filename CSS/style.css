@@ -29,6 +29,6 @@ em
 }
 
 /*Pour les tables*/
-table, th, td{
-    /*font-size: 20px;*/
+table{
+    width: 100%;
 }
