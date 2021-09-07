@@ -2,12 +2,6 @@
 ***Flo***
 */
 
-@font-face { /* Définition d'une nouvelle police nommée CAC Champagne */
-    font-family: 'rechtmanplain';
-    src: url('RechtmanPlain-webfont.woff') format('woff');
-    font-weight: normal;
-}
-
 /* On travaille sur la balise body, donc sur TOUTE la page */
 body
 {
@@ -17,9 +11,9 @@ body
 }
 
 /* Cible la class ci dessous*/
-.construction
-{
-    font-family: sans-serif;
+.center {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1{
@@ -29,8 +23,10 @@ h1{
 	font-family: 'rechtmanplain', Arial, serif;*/
 }
 
+/*pour les paragraphes sans table*/
 p{
-    font-size: 1.5em;
+	text-align: center;
+    font-size: 3em;
 }
 
 /*titre h1 et balise em*/
@@ -39,7 +35,7 @@ em
 	color: rgb(170,2,150);
 }
 
-/*Pour les paragraphes suivants les titres h2*/
-h2 + p
-{
+/*Pour les tables*/
+table, th, td{
+    font-size: 1.5em;
 }
