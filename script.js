@@ -40,5 +40,10 @@ for (i; i < numeric.length; i++) {
 		document.getElementById('aspi').innerHTML = numeric[i][1];
 		document.getElementById('sdb').innerHTML = numeric[i][2];
 		document.getElementById('repos').innerHTML = numeric[i][3];
+		// Elements de la prochaine semaine
+		document.getElementById('Ndate').innerHTML = numeric[i+1][0];
+		document.getElementById('Naspi').innerHTML = numeric[i+1][1];
+		document.getElementById('Nsdb').innerHTML = numeric[i+1][2];
+		document.getElementById('Nrepos').innerHTML = numeric[i+1][3];
 	}
 }
