@@ -1,5 +1,5 @@
 var numeric = [
-    ["04/09/2021","TT le", "monde au", "travail"],
+    ["04/09/2021","TT le", "monde au", "travail"], //mettre au format 09/04/2021 et mettre la date dans le new date 
 	["11/09/2021","Marjo & Aurel","Antoine & Flo","Kev"],
     ["18/09/2021","Antoine & Marjo","Kev & Aurel","Flo"],
 	["25/09/2021","Kev & Flo","Antoine & Marjo","Aurel"],
@@ -36,6 +36,9 @@ var ecartMin = new Date();
 ecartMax.setDate(today.getDate()+3);
 ecartMin.setDate(today.getDate()-3);
 
+document.getElementById('aspi').innerHTML = ecartMin.toLocaleDateString();
+
+/*
 for (i; i < numeric.length; i++) {
 	if (numeric[i][0] < ecartMax.toLocaleDateString() && numeric[i][0] >= ecartMin.toLocaleDateString()){
 		document.getElementById('aspi').innerHTML = numeric[i][1];
@@ -51,5 +54,6 @@ for (i; i < numeric.length; i++) {
 		document.getElementById('N2aspi').innerHTML = numeric[i+2][1];
 		document.getElementById('N2sdb').innerHTML = numeric[i+2][2];
 		document.getElementById('N2repos').innerHTML = numeric[i+2][3];
+		i = numeric.length;
 	}
-}
+}*/
