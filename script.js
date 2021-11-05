@@ -38,7 +38,7 @@ ecartMin.setDate(today.getDate()-3);
 
 document.getElementById('aspi').innerHTML = ecartMin.toLocaleDateString();
 
-/*
+
 for (i; i < numeric.length; i++) {
 	if (numeric[i][0] < ecartMax.toLocaleDateString() && numeric[i][0] >= ecartMin.toLocaleDateString()){
 		document.getElementById('aspi').innerHTML = numeric[i][1];
@@ -56,4 +56,4 @@ for (i; i < numeric.length; i++) {
 		document.getElementById('N2repos').innerHTML = numeric[i+2][3];
 		i = numeric.length;
 	}
-}*/
+}
