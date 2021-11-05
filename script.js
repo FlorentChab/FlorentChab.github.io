@@ -1,6 +1,6 @@
 var numeric = [
     ["04/09/2021","TT le", "monde au", "travail"], //mettre au format 09/04/2021 et mettre la date dans le new date 
-	"["9/11/21","Marjo & Aurel","Antoine & Flo","Kev]
+	["9/11/21","Marjo & Aurel","Antoine & Flo","Kev]
 	["9/18/21","Antoine & Marjo","Kev & Aurel","Flo]
 	["9/25/21","Kev & Flo","Antoine & Marjo","Aurel]
 	["10/2/21","Antoine & Aurel","Kev & Flo","Marjo]
