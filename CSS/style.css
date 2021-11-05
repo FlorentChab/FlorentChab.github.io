@@ -7,7 +7,7 @@ body
 {
     background-color: black;
     color: white; /* Le texte de la page sera blanc */
-    font-family: "Courier New";
+    font-family: "Arial";
 }
 
 /* Cible la class ci dessous*/
@@ -23,9 +23,9 @@ p{
 }
 
 /*titre h1 et balise em*/
-em
+a
 {
-	color: rgb(170,2,150);
+	color: rgb(0,255,0);
 }
 
 /*Pour les tables*/
