@@ -42,6 +42,7 @@ for (i; i < numeric.length; i++) {
 	vDate = new Date(numeric[i][0]);
 	
 	if (vDate < ecartMax && vDate > ecartMin){
+		document.getElementById('date').innerHTML = new Date(numeric[i][0]).toLocaleDateString();
 		document.getElementById('aspi').innerHTML = numeric[i][1];
 		document.getElementById('sdb').innerHTML = numeric[i][2];
 		document.getElementById('repos').innerHTML = numeric[i][3];
