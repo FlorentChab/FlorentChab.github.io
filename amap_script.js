@@ -42,19 +42,11 @@ for (i; i < numeric.length; i++) {
 	vDate = new Date(numeric[i][0]);
 	
 	if (vDate > today){
-		document.getElementById('aspi').innerHTML = numeric[i][1];
-		document.getElementById('sdb').innerHTML = numeric[i][2];
-		document.getElementById('repos').innerHTML = numeric[i][3];
-		// Elements de la n+1 semaine
-		document.getElementById('Ndate').innerHTML = new Date(numeric[i+1][0]).toLocaleDateString();
-		document.getElementById('Naspi').innerHTML = numeric[i+1][1];
-		document.getElementById('Nsdb').innerHTML = numeric[i+1][2];
-		document.getElementById('Nrepos').innerHTML = numeric[i+1][3];
-		// Elements de la n+2 semaine
-		document.getElementById('N2date').innerHTML = new Date(numeric[i+2][0]).toLocaleDateString();
-		document.getElementById('N2aspi').innerHTML = numeric[i+2][1];
-		document.getElementById('N2sdb').innerHTML = numeric[i+2][2];
-		document.getElementById('N2repos').innerHTML = numeric[i+2][3];
+		document.getElementById('kpain').innerHTML = numeric[i][1];
+		document.getElementById('koeuf').innerHTML = numeric[i][2];
+		document.getElementById('kfromage').innerHTML = numeric[i][3];
+		document.getElementById('ktruite').innerHTML = numeric[i][4];
+		document.getElementById('kvolaille').innerHTML = numeric[i][2]
 		i = numeric.length;
 	}
 }
