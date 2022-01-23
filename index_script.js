@@ -10,7 +10,7 @@ var numeric = [
 	["01/1/22","New","Year","!!!"],
 	["01/8/22","Marjo & Kev","Aurel & Flo","Antoine"],
 	["01/15/22","Aurel & Flo","Antoine & Kev","Marjo"],
-	["01/22/22","Antoine & Flo","Marjo & Kev","Aurel"],
+	["01/22/22","Antoine & Kev","Marjo & Flo","Aurel"],
 	["01/29/22","Kev & Aurel","Marjo & Antoine","Flo"],
 	["02/5/22","Marjo & Antoine","Aurel & Flo","Kev"],
 	["02/12/22","Aurel & Flo","Marjo & Kev","Antoine"],
