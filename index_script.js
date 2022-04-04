@@ -1,31 +1,32 @@
 var numeric = [
-	["3/12/22","Flo & Aurel","Antoine & Marjo","Kev"],
-	["3/19/22","Antoine & Marjo","Kev & Aurel","Flo"],
-	["3/26/22","Kev & Flo","Antoine & Marjo","Aurel"],
-	["4/2/22","Antoine & Aurel","Kev & Flo","Marjo"],
-	["4/9/22","Kev & Flo","Marjo & Aurel","Antoine"],
-	["4/16/22","Marjo & Aurel","Antoine & Flo","Kev"],
-	["4/23/22","Antoine & Kev","Marjo & Aurel","Flo"],
-	["4/30/22","Marjo & Flo","Antoine & Kev","Aurel"],
-	["5/7/22","Antoine & Kev","Aurel & Flo","Marjo"],
-	["5/14/22","Aurel & Flo","Marjo & Kev","Antoine"],
-	["5/21/22","Marjo & Antoine","Aurel & Flo","Kev"],
-	["5/28/22","Kev & Aurel","Marjo & Antoine","Flo"],
-	["6/4/22","Marjo & Antoine","Kev & Flo","Aurel"],
-	["6/11/22","Kev & Flo","Antoine & Aurel","Marjo"],
-	["6/18/22","Marjo & Aurel","Kev & Flo","Antoine"],
-	["6/25/22","Antoine & Flo","Marjo & Aurel","Kev"],
-	["7/2/22","Marjo & Aurel","Antoine & Kev","Flo"],
-	["7/9/22","Antoine & Kev","Marjo & Flo","Aurel"],
-	["7/16/22","Aurel & Flo","Antoine & Kev","Marjo"],
-	["7/23/22","Marjo & Kev","Aurel & Flo","Antoine"],
-	["7/30/22","Aurel & Flo","Marjo & Antoine","Kev"],
-	["8/6/22","Antoine & Marjo","Kev & Aurel","Flo"],
-	["8/13/22","Kev & Flo","Antoine & Marjo","Aurel"],
-	["8/20/22","Antoine & Aurel","Kev & Flo","Marjo"],
-	["8/27/22","Kev & Flo","Marjo & Aurel","Antoine"],
-	["9/3/22","Marjo & Aurel","Antoine & Flo","Kev"],
-	["9/10/22","Script à","completer","Sheh !"]
+	["4/2/22","Antoine & Kev","Aurel & Flo","Marjo"]
+	["4/9/22","Antoine & Marjo","Kev & Flo","Aurel"]
+	["4/16/22","Kev & Aurel","Marjo & Antoine","Flo"]
+	["4/23/22","Marjo & Antoine","Aurel & Flo","Kev"]
+	["4/30/22","Aurel & Flo","Marjo & Kev","Antoine"]
+	["5/7/22","Antoine & Kev","Aurel & Flo","Marjo"]
+	["5/14/22","Marjo & Flo","Antoine & Kev","Aurel"]
+	["5/21/22","Antoine & Kev","Marjo & Aurel","Flo"]
+	["5/28/22","Marjo & Aurel","Antoine & Flo","Kev"]
+	["6/4/22","Kev & Flo","Marjo & Aurel","Antoine"]
+	["6/11/22","Antoine & Aurel","Kev & Flo","Marjo"]
+	["6/18/22","Kev & Flo","Antoine & Marjo","Aurel"]
+	["6/25/22","Antoine & Marjo","Kev & Aurel","Flo"]
+	["7/2/22","Aurel & Flo","Antoine & Marjo","Kev"]
+	["7/9/22","Marjo & Kev","Aurel & Flo","Antoine"]
+	["7/16/22","Aurel & Flo","Antoine & Kev","Marjo"]
+	["7/23/22","Antoine & Kev","Marjo & Flo","Aurel"]
+	["7/30/22","Marjo & Aurel","Antoine & Kev","Flo"]
+	["8/6/22","Antoine & Flo","Marjo & Aurel","Kev"]
+	["8/13/22","Marjo & Aurel","Kev & Flo","Antoine"]
+	["8/20/22","Kev & Flo","Antoine & Aurel","Marjo"]
+	["8/27/22","Antoine & Marjo","Kev & Flo","Aurel"]
+	["9/3/22","Kev & Aurel","Antoine & Marjo","Flo"]
+	["9/10/22","Antoine & Marjo","Aurel & Flo","Kev"]
+	["9/17/22","Aurel & Flo","Marjo & Kev","Antoine"]
+	["9/24/22","Antoine & Kev","Aurel & Flo","Marjo"]
+	["10/1/22","Marjo & Flo","Antoine & Kev","Aurel"]
+	["10/8/22","Script à","completer","Sheh !"]
 ];
 
 var i = 0;
