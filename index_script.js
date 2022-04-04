@@ -1,5 +1,5 @@
 var numeric = [
-	["4/2/22","Antoine & Kev","Aurel & Flo","Marjo"]
+	["4/2/22","Antoine & Kev","Aurel & Flo","Marjo"] //same
 	["4/9/22","Antoine & Marjo","Kev & Flo","Aurel"]
 	["4/16/22","Kev & Aurel","Marjo & Antoine","Flo"]
 	["4/23/22","Marjo & Antoine","Aurel & Flo","Kev"]
@@ -19,7 +19,7 @@ var numeric = [
 	["7/30/22","Marjo & Aurel","Antoine & Kev","Flo"]
 	["8/6/22","Antoine & Flo","Marjo & Aurel","Kev"]
 	["8/13/22","Marjo & Aurel","Kev & Flo","Antoine"]
-	["8/20/22","Kev & Flo","Antoine & Aurel","Marjo"]
+	["8/20/22","Kev & Flo","Antoine & Aurel","Marjo"] //same
 	["8/27/22","Antoine & Marjo","Kev & Flo","Aurel"]
 	["9/3/22","Kev & Aurel","Antoine & Marjo","Flo"]
 	["9/10/22","Antoine & Marjo","Aurel & Flo","Kev"]
