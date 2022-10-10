@@ -26,6 +26,7 @@ var numeric = [
 	["9/17/22","MrjLaine & Flo","MrjRie & Kev","Antoine"],
 	["9/24/22","Antoine & Kev","MrjLaine & Flo","MrjRie"], //same
 	["10/1/22","MrjRie & Flo","Antoine & Kev","MrjLaine"],
+	["10/08/22","A","suivre","..."],
 	["10/15/22","Antoine & Kev","MrjRie & MrjLaine","Flo"],
 	["10/22/22","MrjRie & MrjLaine","Antoine & Flo","Kev"],
 	["10/29/22","Kev & Flo","MrjRie & MrjLaine","Antoine"],
