@@ -30,9 +30,26 @@ var numeric = [
 	["10/15/22","Antoine & Kev","MrjRie & MrjLaine","Flo"],
 	["10/22/22","MrjRie & MrjLaine","Antoine & Flo","Kev"],
 	["10/29/22","Kev & Flo","MrjRie & MrjLaine","Antoine"],
-	["8/20/22","Antoine & MrjLaine","Kev & Flo","MrjRie"], 
-	["11/12/22","Script à","completer","Sheh !"],
-	["12/24/22","Script à","completer","Sheh !"]
+	["11/12/22","Antoine & MrjLaine","Kev & Flo","MrjRie"], //
+	["11/19/22","Kev & Flo","Antoine & MrjRie","MrjLaine"],
+	["11/26/22","Antoine & MrjRie","Kev & MrjLaine","Flo"],
+	["12/03/22","MrjLaine & Flo","Antoine & MrjRie","Kev"],
+	["12/10/22","MrjRie & Kev","MrjLaine & Flo","Antoine"],
+	["12/17/22","MrjLaine & Flo","Antoine & Kev","MrjRie"],
+	["12/24/22","Nobody","is","here"],
+	["12/31/22","Nobody","is","here"],
+	["01/07/23","Antoine & Kev","MrjRie & Flo","MrjLaine"],
+	["01/14/23","MrjRie & MrjLaine","Antoine & Kev","Flo"],
+	["01/21/23","Antoine & Flo","MrjRie & MrjLaine","Kev"],
+	["01/28/23","MrjRie & MrjLaine","Kev & Flo","Antoine"],
+	["02/04/23","Kev & Flo","Antoine & MrjLaine","MrjRie"], 
+	["02/11/23","Antoine & MrjRie","Kev & Flo","MrjLaine"],
+	["02/18/23","Kev & MrjLaine","Antoine & MrjRie","Flo"],
+	["02/25/23","Antoine & MrjRie","MrjLaine & Flo","Kev"],
+	["03/04/23","MrjLaine & Flo","MrjRie & Kev","Antoine"],
+	["03/11/23","Antoine & Kev","MrjLaine & Flo","MrjRie"],
+	["03/18/23","Script à","completer","Sheh !"],
+	["03/25/23","Script à","completer","Sheh !"]
 ];
 
 var i = 0;
